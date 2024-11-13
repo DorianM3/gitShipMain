@@ -1,0 +1,8 @@
+diff a/git_ship_Main/Cargo.pde b/git_ship_Main/Cargo.pde	(rejected hunks)
+@@ -4,5 +4,5 @@
+ void loadCargo(){
+   cargo.add("47 self-sealing stem-bolts");
+   cargo.add("100 crates of Romulan Ale");
+-  cargo.add("The Grand Tower");
++  cargo.add("snacks for hyperspace");
+ }
